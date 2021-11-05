@@ -106,7 +106,7 @@ window.onscroll = function () {
 $(window).on("load", function () {
   $(".loader").delay(2000).fadeOut(1000);
   $('.hero_logo img').delay(3000).fadeIn(2000);
-  $('.loader_container').delay(000).fadeOut(2000);
+  $('.loader_container').delay(4000).fadeOut(2000);
 });
 
 
