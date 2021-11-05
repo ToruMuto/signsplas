@@ -857,6 +857,8 @@ footer .footer_container .sns ul {
 footer .footer_container .sns ul li a img {
   width: 30px;
   height: 30px;
+  color:#fff;
+  background-color:#fff;
 }
 footer .footer_container small {
   font-family: Lato, sans-serif;
